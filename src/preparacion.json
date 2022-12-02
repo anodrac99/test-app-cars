@@ -1,0 +1,200 @@
+[
+    {
+        "id": "1",
+        "placa": "ZQL324",
+        "marca": "Mazda",
+        "modelo": "3",
+        "kilometraje": "23.440",
+        "transmision": "Mecánica",
+        "tipo": "Automovil",
+        "precioDeCompra": "40.000.000",
+        "proviniencia": ""
+    },
+    {
+        "id": "2",
+        "placa": "ZWO562",
+        "marca": "Volkswagen",
+        "modelo": "Gol",
+        "kilometraje": "60.560",
+        "transmision": "Mecánica",
+        "tipo": "Automovil",
+        "precioDeCompra": "34.500.000",
+        "proviniencia": ""
+    },
+    {
+        "id": "45",
+        "placa": "MUE345",
+        "marca": "Chevrolet",
+        "modelo": "Spark",
+        "kilometraje": "57.302",
+        "transmision": "Mecánica",
+        "tipo": "Automovil",
+        "precioDeCompra": "16.300.000",
+        "proviniencia": ""
+    },
+    {
+        "id": "78",
+        "placa": "MUY452",
+        "marca": "Mazda",
+        "modelo": "2",
+        "kilometraje": "89.399",
+        "transmision": "Mecánica",
+        "tipo": "Automovil",
+        "precioDeCompra": "38.000.000",
+        "proviniencia": ""
+    },
+    {
+        "id": "14",
+        "placa": "GTD461",
+        "marca": "Chevrolet",
+        "modelo": "Onix Turbo",
+        "kilometraje": "60.777",
+        "transmision": "Automática",
+        "tipo": "Automovil",
+        "precioDeCompra": "58.500.000",
+        "proviniencia": ""
+    },
+    {
+        "id": "39",
+        "placa": "TTS239",
+        "marca": "Bmw",
+        "modelo": "serie 3",
+        "kilometraje": "45.332",
+        "transmision": "Automática",
+        "tipo": "Automovil",
+        "precioDeCompra": "84.500.000",
+        "proviniencia": ""
+    },
+    {
+        "id": "89",
+        "placa": "RTE829",
+        "marca": "Mercedez-Benz",
+        "modelo": "Clase C",
+        "kilometraje": "68.089",
+        "transmision": "Automática",
+        "tipo": "Automovil",
+        "precioDeCompra": "98.700.000",
+        "proviniencia": ""
+    },
+    {
+        "id": "77",
+        "placa": "GTR996",
+        "marca": "Porche",
+        "modelo": "Gt3 Rs",
+        "kilometraje": "9.700",
+        "transmision": "Automática",
+        "tipo": "Automovil",
+        "precioDeCompra": "1.250.000.000",
+        "proviniencia": ""
+    },
+    {
+        "id": "15",
+        "placa": "YUP123",
+        "marca": "Jeep",
+        "modelo": "Cherokee Trackhawk",
+        "kilometraje": "13.400",
+        "transmision": "Automática",
+        "tipo": "Automovil",
+        "precioDeCompra": "340.000.000",
+        "proviniencia": ""
+    },
+    {
+        "id": "7",
+        "placa": "TRU342",
+        "marca": "Alfa-Romeo",
+        "modelo": "4c",
+        "kilometraje": "43.000",
+        "transmision": "Mecánica",
+        "tipo": "Automovil",
+        "precioDeCompra": "68.000.000",
+        "proviniencia": ""
+    },
+    {
+        "id": "11",
+        "placa": "HFY354",
+        "marca": "Bmw",
+        "modelo": "z4",
+        "kilometraje": "32.499",
+        "transmision": "Mecánica",
+        "tipo": "Automovil",
+        "precioDeCompra": "84.000.000",
+        "proviniencia": ""
+    },
+    {
+        "id": "13",
+        "placa": "GTS238",
+        "marca": "Volkswagen",
+        "modelo": "Golf",
+        "kilometraje": "44.220",
+        "transmision": "Mecánica",
+        "tipo": "Automovil",
+        "precioDeCompra": "56.600.000",
+        "proviniencia": ""
+    },
+    {
+        "id": "34",
+        "placa": "XTD782",
+        "marca": "Bmw",
+        "modelo": "X5",
+        "kilometraje": "76.200",
+        "transmision": "Automática",
+        "tipo": "Camioneta",
+        "precioDeCompra": "140.500.000",
+        "proviniencia": ""
+    },
+    {
+        "id": "112",
+        "placa": "BHJ529",
+        "marca": "Chevrolet",
+        "modelo": "spark gt",
+        "kilometraje": "103.040",
+        "transmision": "Mecánica",
+        "tipo": "Automovil",
+        "precioDeCompra": "31.300.000",
+        "proviniencia": ""
+    },
+    {
+        "id": "143",
+        "placa": "JUT341",
+        "marca": "Mazda",
+        "modelo": "CX30",
+        "kilometraje": "45.021",
+        "transmision": "Automática",
+        "tipo": "Automovil",
+        "precioDeCompra": "89.000.000",
+        "proviniencia": ""
+    },
+    {
+        "id": "105",
+        "placa": "UDU145",
+        "marca": "Ford",
+        "modelo": "Fiesta",
+        "kilometraje": "35.332",
+        "transmision": "Mecánica",
+        "tipo": "Automovil",
+        "precioDeCompra": "52.800.000",
+        "proviniencia": ""
+    },
+    {
+        "id": "44",
+        "placa": "YHR369",
+        "marca": "Ford",
+        "modelo": "Fiesta st",
+        "kilometraje": "30.440",
+        "transmision": "Mecánica",
+        "tipo": "Automovil",
+        "precioDeCompra": "72.000.000",
+        "proviniencia": ""
+    },
+    {
+        "id": "67",
+        "placa": "VBD357",
+        "marca": "Audi",
+        "modelo": "Rs3",
+        "kilometraje": "27.304",
+        "transmision": "Automática",
+        "tipo": "Automovil",
+        "precioDeCompra": "102.500.000",
+        "proviniencia": ""
+    }
+]

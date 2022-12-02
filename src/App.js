@@ -1,24 +1,25 @@
-import logo from './logo.svg';
 import './App.css';
+import Nav from './components/Nav';
+import { HashRouter, Route, Routes } from 'react-router-dom'
+import Almacenamiento from './components/Almacenamiento';
+import Home from './components/Home';
+import Preparacion from './components/Preparacion';
+import Vendidos from './components/Vendidos';
+import EnVenta from './components/EnVenta';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <HashRouter>
+      <Nav/>
+      <Routes>
+        <Route path='/' element={<Home />}/>
+        <Route path='/preparacion' element={<Preparacion/>}/>
+        <Route path='/almacenamiento' element={<Almacenamiento />}/>
+        <Route path='/ventas' element={<EnVenta />}/>
+        <Route path='/pedidos' element={<Vendidos />}/>
+      </Routes>
+      
+    </HashRouter>
   );
 }
 
